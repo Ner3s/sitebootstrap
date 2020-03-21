@@ -1,0 +1,35 @@
+/* HEADER */
+.img-logo{
+    width: 3em;
+}
+
+.menu a:link{
+    
+}
+
+/* FOOTER */
+#footer-main{
+    background-color: #353a40;
+    padding: 1em;
+}
+
+#texto-footer{
+    color: #ff68ac;
+}
+
+#footer-main a:link{
+    color: #ff68ac;
+}
+
+#footer-main a:hover{
+    color:#ff2989;
+}
+
+#footer-main a:visited{
+    color: #ff68ac;
+}
+
+#footer-main a:active{
+    color:#ff2989;
+}
+/* FIM FOOTER */
