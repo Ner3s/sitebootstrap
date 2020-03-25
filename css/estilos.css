@@ -1,11 +1,7 @@
 /* HEADER */
-.img-logo{
-    width: 3em;
-}
 
-.menu a:link{
-    
-}
+/* MENU */
+
 
 /* FOOTER */
 #footer-main{
@@ -33,3 +29,9 @@
     color:#ff2989;
 }
 /* FIM FOOTER */
+
+/* Texto padronizado */
+
+.content{
+    padding: 2em;
+}
