@@ -1,6 +1,6 @@
 <nav class="navbar stick-top navbar-expand-lg navbar-dark bg-dark">
   <div class="container">
-    <a class="navbar-brand" href="#"><img src="src/image/logo.png" alt="logo" width="50" class="d-inline-block align-top"></a>
+    <a class="navbar-brand" href="#"><img src="src/image/logo.png" alt="logo" width="70" class="d-inline-block align-top"></a>
     
     <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#nav-principal">
       <span class="navbar-toggler-icon"></span>
